@@ -1,5 +1,7 @@
 # Resume Website
 
+[Live website](https://e-barr.github.io/2025_resume/)
+
 This project is a static resume website built using HTML, CSS, and JavaScript. It is designed to be responsive and web accessible, featuring sections for an introduction, experience, education, and skills. The skills section includes a searchable feature to enhance user interactivity.
 
 ## Project Structure
